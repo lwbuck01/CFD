@@ -1,0 +1,189 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+
+
+
+
+
+
+
+
+
+#msg-box4-3 .lead H1 {
+  color: #e3d6ab;
+}
+#msg-box4-3 .mbr-section-title {
+  color: #e3d6ab;
+  font-family: 'Raleway', sans-serif;
+  font-size: 46px;
+}
+#msg-box4-3 .lead P {
+  color: #e3d6ab;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box4-3 .lead {
+  color: #e3d6ab;
+}
+#content1-7 DIV {
+  font-family: 'Playfair Display', sans-serif;
+}
+#msg-box1-c H2 {
+  color: #e3d6ab;
+  font-family: 'Raleway', sans-serif;
+  font-size: 46px;
+  text-align: left;
+}
+#msg-box1-c P {
+  color: #e3d6ab;
+  text-align: left;
+  font-family: 'Raleway', sans-serif;
+}
+#features1-4 H4 {
+  color: #000000;
+  font-family: 'Raleway', sans-serif;
+}
+#features1-4 P {
+  text-align: center;
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+}
+#features1-4 SPAN {
+  font-size: 22px;
+  font-family: 'Roboto', sans-serif;
+}
+#form1-h .mbr-section-title {
+  font-size: 36px;
+}
+#features1-x H4 {
+  font-size: 24px;
+  color: #1d180e;
+  font-family: 'Playfair Display', sans-serif;
+}
+#msg-box2-14 H2 {
+  color: #1d180e;
+}
+#features1-16 H4 {
+  font-size: 20px;
+}
+#contacts2-k UL {
+  color: #f1c050;
+}
+#dropdown-menu-2v .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2v .nav .link,
+#dropdown-menu-2v .dropdown-item {
+  font-size: 1.6em;
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#dropdown-menu-2v .navbar,
+#dropdown-menu-2v .dropdown-menu {
+  background: #231c0c;
+}
+#dropdown-menu-2v .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2v .dropdown-menu a:hover,
+#dropdown-menu-2v .dropdown-menu a:focus {
+  background: #141007;
+}
+#dropdown-menu-2v .navbar-toggler {
+  color: #ffffff;
+}
+
+
+#dropdown-menu-2btn-1c .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-1c .nav .link,
+#dropdown-menu-2btn-1c .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-2btn-1c .navbar,
+#dropdown-menu-2btn-1c .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-1c .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1c .dropdown-menu a:hover,
+#dropdown-menu-2btn-1c .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-1c .navbar-toggler {
+  color: #000000;
+}
+#msg-box4-1d .lead H1 {
+  color: #e3d6ab;
+}
+#msg-box4-1d .mbr-section-title {
+  color: #e3d6ab;
+  font-family: 'Raleway', sans-serif;
+  font-size: 46px;
+}
+#msg-box4-1d .lead P {
+  color: #e3d6ab;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box4-1d .lead {
+  color: #e3d6ab;
+}
+#msg-box4-2s .mbr-section-title {
+  color: #fff8e0;
+}
+#msg-box4-2s .lead P {
+  color: #fff8e0;
+}
+#msg-box2-2o H2 {
+  color: #ffffff;
+}
+
+#contacts2-2w UL {
+  color: #f1c050;
+}
+#dropdown-menu-2y .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2y .nav .link,
+#dropdown-menu-2y .dropdown-item {
+  font-size: 1.6em;
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#dropdown-menu-2y .navbar,
+#dropdown-menu-2y .dropdown-menu {
+  background: #231c0c;
+}
+#dropdown-menu-2y .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2y .dropdown-menu a:hover,
+#dropdown-menu-2y .dropdown-menu a:focus {
+  background: #141007;
+}
+#dropdown-menu-2y .navbar-toggler {
+  color: #ffffff;
+}
+
+#contacts2-2z UL {
+  color: #f1c050;
+}
+#dropdown-menu-31 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-31 .nav .link,
+#dropdown-menu-31 .dropdown-item {
+  font-size: 1.6em;
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#dropdown-menu-31 .navbar,
+#dropdown-menu-31 .dropdown-menu {
+  background: #231c0c;
+}
+#dropdown-menu-31 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-31 .dropdown-menu a:hover,
+#dropdown-menu-31 .dropdown-menu a:focus {
+  background: #141007;
+}
+#dropdown-menu-31 .navbar-toggler {
+  color: #ffffff;
+}
