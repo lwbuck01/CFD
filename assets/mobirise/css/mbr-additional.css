@@ -1,6 +1,64 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+
+#contacts2-36 UL {
+  color: #f1c050;
+}
+#dropdown-menu-38 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-38 .nav .link,
+#dropdown-menu-38 .dropdown-item {
+  font-size: 1.2em;
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+#dropdown-menu-38 .navbar,
+#dropdown-menu-38 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-38 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-38 .dropdown-menu a:hover,
+#dropdown-menu-38 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-38 .navbar-toggler {
+  color: #000000;
+}
+
+#contacts2-39 UL {
+  color: #f1c050;
+}
+#dropdown-menu-3b .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-3b .nav .link,
+#dropdown-menu-3b .dropdown-item {
+  font-size: 1.2em;
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+#dropdown-menu-3b .navbar,
+#dropdown-menu-3b .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-3b .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-3b .dropdown-menu a:hover,
+#dropdown-menu-3b .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-3b .navbar-toggler {
+  color: #000000;
+}
+
+
+
+
+
+
+
 
 
 
@@ -26,19 +84,20 @@
 #msg-box4-3 .lead {
   color: #e3d6ab;
 }
-#content1-7 DIV {
-  font-family: 'Playfair Display', sans-serif;
+#content5-33 P {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
 }
-#msg-box1-c H2 {
-  color: #e3d6ab;
+#content5-33 .mbr-section-title {
+  text-align: center;
   font-family: 'Raleway', sans-serif;
-  font-size: 46px;
-  text-align: left;
+  color: #ffffff;
 }
-#msg-box1-c P {
-  color: #e3d6ab;
-  text-align: left;
+#msg-box2-35 H2 {
+  color: #fbf2be;
   font-family: 'Raleway', sans-serif;
+  font-size: 30px;
 }
 #features1-4 H4 {
   color: #000000;
@@ -48,13 +107,33 @@
   text-align: center;
   font-size: 16px;
   font-family: 'Roboto', sans-serif;
+  color: #8d6c1e;
 }
 #features1-4 SPAN {
   font-size: 22px;
   font-family: 'Roboto', sans-serif;
 }
+#features1-4 .btn {
+  font-family: 'Oswald', sans-serif;
+}
+#features1-16 H4 {
+  font-size: 20px;
+}
+#msg-box5-32 .mbr-section-title {
+  font-family: 'Raleway', sans-serif;
+}
+#testimonials1-d .card-footer > div {
+  color: #caa52b;
+}
+#testimonials1-d .mbr-section-title {
+  font-family: 'Raleway', sans-serif;
+}
 #form1-h .mbr-section-title {
   font-size: 36px;
+  font-family: 'Raleway', sans-serif;
+}
+#form1-h .btn {
+  font-family: 'Raleway', sans-serif;
 }
 #features1-x H4 {
   font-size: 24px;
@@ -63,9 +142,12 @@
 }
 #msg-box2-14 H2 {
   color: #1d180e;
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
+  text-align: left;
 }
-#features1-16 H4 {
-  font-size: 20px;
+#msg-box2-14 .btn {
+  font-family: 'Raleway', sans-serif;
 }
 #contacts2-k UL {
   color: #f1c050;
@@ -75,115 +157,44 @@
 }
 #dropdown-menu-2v .nav .link,
 #dropdown-menu-2v .dropdown-item {
-  font-size: 1.6em;
-  color: #ffffff;
+  font-size: 1.2em;
+  color: #000000;
   font-family: 'Roboto', sans-serif;
 }
 #dropdown-menu-2v .navbar,
 #dropdown-menu-2v .dropdown-menu {
-  background: #231c0c;
+  background: #ffffff;
 }
 #dropdown-menu-2v .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2v .dropdown-menu a:hover,
 #dropdown-menu-2v .dropdown-menu a:focus {
-  background: #141007;
-}
-#dropdown-menu-2v .navbar-toggler {
-  color: #ffffff;
-}
-
-
-#dropdown-menu-2btn-1c .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-2btn-1c .nav .link,
-#dropdown-menu-2btn-1c .dropdown-item {
-  font-size: 1em;
-  color: #000000;
-}
-#dropdown-menu-2btn-1c .navbar,
-#dropdown-menu-2btn-1c .dropdown-menu {
-  background: #ffffff;
-}
-#dropdown-menu-2btn-1c .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-2btn-1c .dropdown-menu a:hover,
-#dropdown-menu-2btn-1c .dropdown-menu a:focus {
   background: #f5f5f5;
 }
-#dropdown-menu-2btn-1c .navbar-toggler {
+#dropdown-menu-2v .navbar-toggler {
   color: #000000;
 }
-#msg-box4-1d .lead H1 {
-  color: #e3d6ab;
-}
-#msg-box4-1d .mbr-section-title {
-  color: #e3d6ab;
-  font-family: 'Raleway', sans-serif;
-  font-size: 46px;
-}
-#msg-box4-1d .lead P {
-  color: #e3d6ab;
-  font-family: 'Raleway', sans-serif;
-}
-#msg-box4-1d .lead {
-  color: #e3d6ab;
-}
-#msg-box4-2s .mbr-section-title {
-  color: #fff8e0;
-}
-#msg-box4-2s .lead P {
-  color: #fff8e0;
-}
-#msg-box2-2o H2 {
-  color: #ffffff;
-}
 
-#contacts2-2w UL {
+#contacts2-3c UL {
   color: #f1c050;
 }
-#dropdown-menu-2y .hide-buttons [data-button] {
+#dropdown-menu-3e .hide-buttons [data-button] {
   display: none !important;
 }
-#dropdown-menu-2y .nav .link,
-#dropdown-menu-2y .dropdown-item {
-  font-size: 1.6em;
-  color: #ffffff;
+#dropdown-menu-3e .nav .link,
+#dropdown-menu-3e .dropdown-item {
+  font-size: 1.2em;
+  color: #000000;
   font-family: 'Roboto', sans-serif;
 }
-#dropdown-menu-2y .navbar,
-#dropdown-menu-2y .dropdown-menu {
-  background: #231c0c;
+#dropdown-menu-3e .navbar,
+#dropdown-menu-3e .dropdown-menu {
+  background: #ffffff;
 }
-#dropdown-menu-2y .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-2y .dropdown-menu a:hover,
-#dropdown-menu-2y .dropdown-menu a:focus {
-  background: #141007;
+#dropdown-menu-3e .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-3e .dropdown-menu a:hover,
+#dropdown-menu-3e .dropdown-menu a:focus {
+  background: #f5f5f5;
 }
-#dropdown-menu-2y .navbar-toggler {
-  color: #ffffff;
-}
-
-#contacts2-2z UL {
-  color: #f1c050;
-}
-#dropdown-menu-31 .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-31 .nav .link,
-#dropdown-menu-31 .dropdown-item {
-  font-size: 1.6em;
-  color: #ffffff;
-  font-family: 'Roboto', sans-serif;
-}
-#dropdown-menu-31 .navbar,
-#dropdown-menu-31 .dropdown-menu {
-  background: #231c0c;
-}
-#dropdown-menu-31 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-31 .dropdown-menu a:hover,
-#dropdown-menu-31 .dropdown-menu a:focus {
-  background: #141007;
-}
-#dropdown-menu-31 .navbar-toggler {
-  color: #ffffff;
+#dropdown-menu-3e .navbar-toggler {
+  color: #000000;
 }
